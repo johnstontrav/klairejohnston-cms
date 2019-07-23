@@ -29,7 +29,33 @@ And in the next beat, so can 'No'.
 
 ## The words that changed it all
 
-It's only 
+I've MC'd weddings, addressed government forums, conducted workshops and delivered guest speaker presentations. 
+
+Yet it was a speech of only about a dozen lines that finally brought home the responsibility I have to write hard and share big.  
+
+At the funeral of my grandmother only last month, I wrote words from the heart and spoke them at the small ceremony.  When family thanked me for their illumination of her great life and how these helped lift some of the sorrow, I felt a glow, knowing Grandma would also approve. 
+
+The evening before, I helped my uncle frame up his eulogy, which was peppered with great ideas, though - according to him - just didn't thread together with the message he was trying to impart. It was important, I knew. I thought it was about tribute. About legacy.
+
+What I saw in his eyes at the service made me realise I was wrong. It was actually about healing. 
+
+
+
+## The words that changed it all
+
+It's ironic really that it's taken the words of others - pointed, timely and surprising - to bring home to me the importance of sharing what I write. \
+\
+It would be polite to say I've felt compelled by a few wonderful and worldly people to share more of my work.  It would be more truthful to say that they're making a mission of not letting me escape my responsibility of using this 'word thing' of mine to make a difference. They certainly won't take 'No' for an answer. 
+
+
+
+
+
+
+
+
+
+worthy In the most beautiful way, a few worldy and worthy people have backed me in to a 
 
 
 
