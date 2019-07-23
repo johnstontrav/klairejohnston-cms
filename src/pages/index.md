@@ -7,13 +7,15 @@ subheading: Author
 mainpitch:
   title: .....
   description: >-
-    Klaire writes because it's in her blood. From the age of five her words have
-    been woven through pubic performance, publications, and places that words
-    need to be heard.
+    Klaire writes because it's her gift. 
+
+
+    From the age of five her words have been woven through pubic performance,
+    literary publications, and places that words need to be heard.
 
 
 
-    She has MC'd 
+    She has MC'd weddings, 
 
     xljsklfjs
 
