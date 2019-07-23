@@ -5,7 +5,6 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import SEO from '../components/SEO';
 
 export const BlogPostTemplate = ({
   content,
@@ -60,11 +59,6 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt || 'nothin’'}
-        article
-      />
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
