@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Poetry
+title: Klaire Johnston
 image: /img/20190716_181934.jpg
-heading: Writing poetry
-subheading: Support sustainable farming while enjoying a cup
+heading: Klaire Johnston
+subheading: Author
 mainpitch:
   title: Why Kaldi
   description: >
