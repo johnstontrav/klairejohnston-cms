@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: Words that kill.
-date: 2019-07-22T19:00:00.000Z
+date: 2019-06-30T14:00:00.000Z
 description: >-
   Words are powerful.  And yet, we carry around these little weapons without
   truly understanding the way they can be wielded.  
-featuredpost: true
+featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 tags:
   - flavor
@@ -25,8 +25,6 @@ Think about it. 'Yes' can mean so many things. Can change everything.
 
 And in the next beat, so can 'No'. 
 
-
-
 ## The words that changed it all
 
 I've MC'd weddings, addressed government forums, conducted workshops and delivered guest speaker presentations. 
@@ -43,23 +41,19 @@ Having crafted his words into the shape of the love he wanted to reflect, I gift
 
 My words shifted his world. Those few lines held so much power. 
 
-
-
 ## It's the hardest thing...
 
-"It is the hardest thing - a long goodbye. And yet, what a life to celebrate. Grandma is weaved into our DNA, our consciousness, our memories, our subconsciouses. She still threads this family together, as Grandad did, and hanging on to that is the biggest honour we can bestow."
+"It is the hardest thing - a long goodbye. And yet, what a life to celebrate. Grandma is weaved into our DNA, our consciousness, our memories, our subconsciouses. She still threads this family together ..."
 
 These were the few words to my mother she borrowed for her speech on the day.  These were part of her healing, too.
 
 I the emotional exhaustion of the aftermath fo the funeral, I busied myself with decluttering some corners of my home. In what seemed like an affirmation, I unearthed the eulogy I delivered for my father-in-law and for the first time in so long recall how many had come to me and thanked me for the way those words touched them. 
 
-In the same box was a copy of anthology _Mending Matters,_ published as a tribute to 100 years of women's suffrage in Australia and which includes one of my poems.
+Going through the papers I also found the words I had written for a friend, to hold on her behalf, should her cancer journey not turn out as desired.  
 
-Going through the papers I also found the words I had written for a friend, to hold on her behalf, should her cancer journey not turn out as desired. 
+In the same box was a copy of anthology in which one of one of my poems is published. Notes from the judges of writing competitions I'd fared well in. A photograph of an early poem of mine hanging in a school administration building. 
 
-I re-read ....
-
-
+The most recent stack of papers we a bunch of feedback forms from my latest creative writing workshop held a few months ago. What was written on those was not about the lyrical verses I had written muyself, but instead how the words I spoke held enough gravity for those attendees to feel engergised about their writing again, and to believe in the gift of their own words. 
 
 
 
@@ -69,19 +63,7 @@ It's ironic really that it's taken the words of others - pointed, timely and sur
 \
 It would be polite to say I've felt compelled by a few wonderful and worldly people to share more of my work.  It would be more truthful to say that they're making a mission of not letting me escape my responsibility of using this 'word thing' of mine to make a difference. They certainly won't take 'No' for an answer. 
 
-
-
-
-
-
-
-
-
 worthy In the most beautiful way, a few worldy and worthy people have backed me in to a 
-
-
-
-
 
 The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
