@@ -8,8 +8,11 @@ description: >-
 featuredpost: false
 featuredimage: /img/green-chameleon-s9cc2skysjm-unsplash.jpg
 tags:
-  - flavor
-  - tasting
+  - words
+  - writing
+  - poetry
+  - workshop
+  - poems
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
