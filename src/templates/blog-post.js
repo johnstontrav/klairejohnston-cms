@@ -19,13 +19,6 @@ export const BlogPostTemplate = ({
 
   return (
     <section className="section">
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt || 'nothin’'}
-        image={post.frontmatter.image.childImageSharp.sizes.src}
-        pathname={post.fields.slug}
-        article
-      />
       {helmet || ''}
       <div className="container content">
         <div className="columns">
@@ -67,6 +60,11 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
+      <SEO
+        title={post.frontmatter.title}
+        description={post.frontmatter.description || post.excerpt || 'nothin’'}
+        article
+      />
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
