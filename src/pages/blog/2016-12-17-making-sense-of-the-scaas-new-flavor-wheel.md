@@ -43,15 +43,27 @@ Having crafted his words into the shape of the love he wanted to reflect, I gift
 
 My words shifted his world. Those few lines held so much power. 
 
+
+
+## It's the hardest thing...
+
 "It is the hardest thing - a long goodbye. And yet, what a life to celebrate. Grandma is weaved into our DNA, our consciousness, our memories, our subconsciouses. She still threads this family together, as Grandad did, and hanging on to that is the biggest honour we can bestow."
 
 These were the few words to my mother she borrowed for her speech on the day.  These were part of her healing, too.
 
 I the emotional exhaustion of the aftermath fo the funeral, I busied myself with decluttering some corners of my home. In what seemed like an affirmation, I unearthed the eulogy I delivered for my father-in-law and for the first time in so long recall how many had come to me and thanked me for the way those words touched them. 
 
+In the same box was a copy of anthology _Mending Matters,_ published as a tribute to 100 years of women's suffrage in Australia and which includes one of my poems.
+
+Going through the papers I also found the words I had written for a friend, to hold on her behalf, should her cancer journey not turn out as desired. 
+
+I re-read ....
 
 
-## The words that changed it all
+
+
+
+## The XXXX
 
 It's ironic really that it's taken the words of others - pointed, timely and surprising - to bring home to me the importance of sharing what I write. \
 \
