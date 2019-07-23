@@ -12,6 +12,9 @@ mainpitch:
 
     From the age of five her words have been woven through pubic performance,
     literary publications, and places that words need to be heard.
+
+
+    Here you can follow her journey.
 description: >-
   Klaire has MC'd weddings, addressed government forums, conducted workshops and
   delivered guest speaker presentations. She's a teacher, mentor, leader ... and
