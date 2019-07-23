@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Klaire Johnston
 image: /img/photo-1511131341194-24e2eeeebb09.jpeg
-heading: ......
-subheading: Author
+heading: Author
+subheading: 'LATEST RELEASE: Ideas too big for our skin'
 mainpitch:
   title: .....
   description: >-
