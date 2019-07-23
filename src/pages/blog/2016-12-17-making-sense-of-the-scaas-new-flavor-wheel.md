@@ -14,7 +14,7 @@ tags:
   - workshop
   - poems
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/green-chameleon-s9cc2skysjm-unsplash.jpg)
 
 Some people have athletic ability. Others are good with their hands. Some may be natural leaders, have a voice like an angel, or love how maths makes them tick.
 
@@ -27,8 +27,6 @@ The best comedians can move us to laughter, then to tears, then into a gut-wrenc
 Think about it. 'Yes' can mean so many things. Can change everything. 
 
 And in the next beat, so can 'No'. 
-
-
 
 ## The words that changed everything
 
@@ -45,8 +43,6 @@ It was important, I knew. I thought it was about tribute. About legacy. Though w
 Having crafted his words into the shape of the love he wanted to reflect, I gifted him something.
 
 My words shifted his world. Those few lines held so much power. 
-
-
 
 ## I have never been asked to read anything twice ...
 
@@ -69,8 +65,6 @@ He emailed me the next day ...
 "I have never been asked to read anything twice. So thank you for that compliment. 
 
 "I have never believed that what I wrote had any meaning except for me .... that anything I write could bring enjoyment to others".
-
-
 
 ## The surprise take
 
