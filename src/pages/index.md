@@ -1,21 +1,26 @@
 ---
 templateKey: index-page
 title: Klaire Johnston
-image: /img/20190716_181934.jpg
-heading: Klaire Johnston
+image: /img/photo-1511131341194-24e2eeeebb09.jpeg
+heading: ......
 subheading: Author
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: .....
+  description: >-
+    Klaire writes because it's in her blood. From the age of five her words have
+    been woven through pubic performance, publications, and places that words
+    need to be heard.
+
+
+
+    She has MC'd 
+
+    xljsklfjs
+
+    skljsdkfj
+
+    lkjsdlkfjsk
+description: Klaire has MC'd ...
 intro:
   blurbs:
     - image: /img/coffee.png
