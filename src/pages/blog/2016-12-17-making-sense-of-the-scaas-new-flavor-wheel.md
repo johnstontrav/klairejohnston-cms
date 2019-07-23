@@ -6,7 +6,7 @@ description: >-
   Words are powerful.  And yet, we carry around these little weapons without
   truly understanding the way they can be wielded.  
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/green-chameleon-s9cc2skysjm-unsplash.jpg
 tags:
   - flavor
   - tasting
