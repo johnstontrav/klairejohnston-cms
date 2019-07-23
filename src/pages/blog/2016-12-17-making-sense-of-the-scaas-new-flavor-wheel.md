@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Words that kill.
+title: With great power ...
 date: 2019-06-30T14:00:00.000Z
 description: >-
   Words are powerful.  And yet, we carry around these little weapons without
@@ -45,7 +45,7 @@ My words shifted his world. Those few lines held so much power.
 
 
 
-## It's the hardest thing ...
+## I have never been asked to read anything twice ...
 
 "It is the hardest thing - a long goodbye. And yet, what a life to celebrate. Grandma is weaved into our DNA, our consciousness, our memories, our subconsciouses. She still threads this family together ..."
 
