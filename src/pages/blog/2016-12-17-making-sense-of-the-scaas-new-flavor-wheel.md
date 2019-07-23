@@ -25,6 +25,8 @@ Think about it. 'Yes' can mean so many things. Can change everything.
 
 And in the next beat, so can 'No'. 
 
+
+
 ## The words that changed everything
 
 I've MC'd weddings, addressed government forums, conducted workshops and delivered guest speaker presentations. 
@@ -43,7 +45,7 @@ My words shifted his world. Those few lines held so much power.
 
 
 
-## It's the hardest thing...
+## It's the hardest thing ...
 
 "It is the hardest thing - a long goodbye. And yet, what a life to celebrate. Grandma is weaved into our DNA, our consciousness, our memories, our subconsciouses. She still threads this family together ..."
 
