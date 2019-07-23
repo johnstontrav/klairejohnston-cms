@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import SEO from '../components/SEO';
 
 export const BlogPostTemplate = ({
   content,
@@ -17,6 +18,13 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
+    <SEO
+      title={post.frontmatter.title}
+      description={post.frontmatter.description || post.excerpt || 'nothin’'}
+      image={post.frontmatter.image.childImageSharp.sizes.src}
+      pathname={post.fields.slug}
+      article
+    />
     <section className="section">
       {helmet || ''}
       <div className="container content">
