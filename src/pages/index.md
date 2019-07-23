@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Poetry
 image: /img/20190716_181934.jpg
 heading: Writing poetry
 subheading: Support sustainable farming while enjoying a cup
