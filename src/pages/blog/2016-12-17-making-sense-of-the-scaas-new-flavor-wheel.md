@@ -31,13 +31,23 @@ And in the next beat, so can 'No'.
 
 I've MC'd weddings, addressed government forums, conducted workshops and delivered guest speaker presentations. 
 
-Yet it was a speech of only about a dozen lines that finally brought home the responsibility I have to write hard and share big.  
+Yet it was a collection of only about a dozen lines that finally brought home the responsibility I have to write hard and share big.  
 
 At the funeral of my grandmother only last month, I wrote words from the heart and spoke them at the small ceremony.  When family thanked me for their illumination of her great life and how these helped lift some of the sorrow, I felt a glow, knowing Grandma would also approve. 
 
-The evening before, I helped my uncle frame up his eulogy, which was peppered with great ideas, though - according to him - just didn't thread together with the message he was trying to impart. It was important, I knew. I thought it was about tribute. About legacy.
+The evening before, I helped my uncle frame up his eulogy, which was peppered with great ideas, though - according to him - just didn't thread together with the message he was trying to impart. It was important, I knew. 
 
-What I saw in his eyes at the service made me realise I was wrong. It was actually about healing. 
+I thought it was about tribute. About legacy. Though what I saw in his face at the service, and the relief once the words were delivered, made me realise I was wrong. It was actually about healing. 
+
+Having crafted his words into the shape of the love he wanted to reflect, I gifted him something.
+
+My words shifted his world. Those few lines held so much power. 
+
+"It is the hardest thing - a long goodbye. And yet, what a life to celebrate. Grandma is weaved into our DNA, our consciousness, our memories, our subconsciouses. She still threads this family together, as Grandad did, and hanging on to that is the biggest honour we can bestow."
+
+These were the few words to my mother she borrowed for her speech on the day.  These were part of her healing, too.
+
+I the emotional exhaustion of the aftermath fo the funeral, I busied myself with decluttering some corners of my home. In what seemed like an affirmation, I unearthed the eulogy I delivered for my father-in-law and for the first time in so long recall how many had come to me and thanked me for the way those words touched them. 
 
 
 
