@@ -1,21 +1,39 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Words that kill.
+date: 2019-06-30T14:00:00.000Z
+description: >-
+  Words are powerful.  And yet, we carry around these little weapons without
+  truly understanding the way they can be wielded.  
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Some people have athletic ability. Others are good with their hands. Some may be natural leaders, have a voice like an angel, or love how maths makes them tick.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+My gift has always been words. 
 
-## What the updates mean to you
+Words ARE powerful. I've seen evidence of this in the stirring speeches of world leaders, the impassioned revelations of entrepreneurs, in clever TED Talks and through the artful lyrics of great songwriters.
+
+The best comedians can move us to laughter, then to tears, then into a gut-wrenching, breathless and welcome combination of both. Sometimes with just one word.
+
+Think about it. 'Yes' can mean so many things. Can change everything. 
+
+And in the next beat, so can 'No'. 
+
+
+
+## The words that changed it all
+
+It's only 
+
+
+
+
 
 The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
