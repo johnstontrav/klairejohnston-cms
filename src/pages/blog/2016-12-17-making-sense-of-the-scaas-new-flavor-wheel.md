@@ -69,7 +69,7 @@ He emailed me the next day ...
 
 
 
-## The take
+## The surprise take
 
 It's ironic really that it's taken the words of others - pointed, timely and surprising - to bring home to me the importance of sharing what I write. \
 \
