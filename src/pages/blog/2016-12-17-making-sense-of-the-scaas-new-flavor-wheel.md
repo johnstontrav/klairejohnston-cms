@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: With great power ...
-date: 2019-06-30T14:00:00.000Z
+date: 2019-07-01T14:00:00.000Z
 description: >-
   Words are powerful.  And yet, we carry around these little weapons without
   truly understanding the way they can be wielded.  
