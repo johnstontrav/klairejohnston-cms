@@ -17,7 +17,7 @@ Some people have athletic ability. Others are good with their hands. Some may be
 
 My gift has always been words. 
 
-Words ARE powerful. I've seen evidence of this in the stirring speeches of world leaders, the impassioned revelations of entrepreneurs, in clever TED Talks and through the artful lyrics of great songwriters.
+Words _are_ powerful. I've seen evidence of this in the stirring speeches of world leaders, the impassioned revelations of entrepreneurs, in clever TED Talks and through the artful lyrics of great songwriters.
 
 The best comedians can move us to laughter, then to tears, then into a gut-wrenching, breathless and welcome combination of both. Sometimes with just one word.
 
@@ -29,13 +29,13 @@ And in the next beat, so can 'No'.
 
 I've MC'd weddings, addressed government forums, conducted workshops and delivered guest speaker presentations. 
 
-Yet it was a collection of only about a dozen lines that finally brought home the responsibility I have to write hard and share big.  
+Yet it was a collection of only about a dozen lines that finally brought home the responsibility I carry to write hard and share big.  
 
-At the funeral of my grandmother only last month, I wrote words from the heart and spoke them at the small ceremony.  When family thanked me for their illumination of her great life and how these helped lift some of the sorrow, I felt a glow, knowing Grandma would also approve. 
+Only last month, at the funeral of my grandmother, I wrote words from the heart and spoke them at the intimate ceremony.  When family members thanked me for their illumination of her great life and how these helped lift some of the sorrow, I felt a glow, knowing Grandma would also approve. 
 
-The evening before, I helped my uncle frame up his eulogy, which was peppered with great ideas, though - according to him - just didn't thread together with the message he was trying to impart. It was important, I knew. 
+The evening before, I helped my uncle frame up his eulogy, which was peppered with great ideas, though - according to him - just didn't yet thread together with the message he was trying to impart. 
 
-I thought it was about tribute. About legacy. Though what I saw in his face at the service, and the relief once the words were delivered, made me realise I was wrong. It was actually about healing. 
+It was important, I knew. I thought it was about tribute. About legacy. Though what I saw in his face at the service, and the relief once the words were delivered and resonated around the room, made me realise I was wrong. It was actually about healing. 
 
 Having crafted his words into the shape of the love he wanted to reflect, I gifted him something.
 
