@@ -1,15 +1,18 @@
 ---
 templateKey: blog-post
-title: Words that kill.
+title: With great power ...
 date: 2019-06-30T14:00:00.000Z
 description: >-
   Words are powerful.  And yet, we carry around these little weapons without
   truly understanding the way they can be wielded.  
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/green-chameleon-s9cc2skysjm-unsplash.jpg
 tags:
-  - flavor
-  - tasting
+  - words
+  - writing
+  - poetry
+  - workshop
+  - poems
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
@@ -24,6 +27,8 @@ The best comedians can move us to laughter, then to tears, then into a gut-wrenc
 Think about it. 'Yes' can mean so many things. Can change everything. 
 
 And in the next beat, so can 'No'. 
+
+
 
 ## The words that changed everything
 
@@ -43,7 +48,7 @@ My words shifted his world. Those few lines held so much power.
 
 
 
-## It's the hardest thing...
+## I have never been asked to read anything twice ...
 
 "It is the hardest thing - a long goodbye. And yet, what a life to celebrate. Grandma is weaved into our DNA, our consciousness, our memories, our subconsciouses. She still threads this family together ..."
 
@@ -67,7 +72,7 @@ He emailed me the next day ...
 
 
 
-## The take
+## The surprise take
 
 It's ironic really that it's taken the words of others - pointed, timely and surprising - to bring home to me the importance of sharing what I write. \
 \
