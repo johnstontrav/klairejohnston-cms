@@ -5,7 +5,7 @@ date: 2019-07-22T19:00:00.000Z
 description: >-
   Words are powerful.  And yet, we carry around these little weapons without
   truly understanding the way they can be wielded.  
-featuredpost: false
+featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
 tags:
   - flavor
