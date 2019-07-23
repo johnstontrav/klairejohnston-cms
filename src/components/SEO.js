@@ -61,6 +61,7 @@ SEO.propTypes = {
     title: PropTypes.string,
     description: PropTypes.string,
     image: PropTypes.string,
+    url: PropTypes.string,
     pathname: PropTypes.string,
     article: PropTypes.bool,
 }
@@ -69,6 +70,7 @@ SEO.defaultProps = {
     title: null,
     description: null,
     image: null,
+    url: null,
     pathname: null,
     article: false,
 }
