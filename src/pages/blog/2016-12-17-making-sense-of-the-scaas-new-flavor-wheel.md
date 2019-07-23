@@ -55,7 +55,15 @@ Going through the papers I also found the words I had written for a friend, to h
 
 In the same box was a copy of anthology in which one of one of my poems is published. Notes from the judges of writing competitions I'd fared well in. A photograph of an early poem of mine hanging in a school administration building. 
 
-The most recent stack of papers we a bunch of feedback forms from my latest creative writing workshop held a few months ago. What was written on those was not about the lyrical verses I had written muyself, but instead how the words I spoke held enough gravity for those attendees to feel engergised about their writing again, and to believe in the gift of their own words. 
+The most recent stack of papers was a bunch of feedback forms from my latest creative writing workshop held just months ago. The responses of those attendees were not about the lyrical verses I had written, but how the words I spoke to them that day - the comments, critiques, suggestions - held enough gravity for them to feel energised about their writing again and to believe in the gift of their own words. 
+
+One attendee introduced his reasons for attending the Creative Kickstart as simply to write for himself, as "everything that needs to be written has already been written".  To his great surprise, his beautifully crafted poem, written in that session, had captivated us all.  
+
+He emailed me the next day ...
+
+"I have never been asked to read anything twice. So thank you for that compliment. 
+
+"I have never believed that what I wrote had any meaning except for me .... that anything I write could bring enjoyment to others".
 
 
 
@@ -63,7 +71,7 @@ The most recent stack of papers we a bunch of feedback forms from my latest crea
 
 It's ironic really that it's taken the words of others - pointed, timely and surprising - to bring home to me the importance of sharing what I write. \
 \
-It would be polite to say I've felt compelled by a few wonderful and worldly people to share more of my work.  It would be even more truthful to say that they're making a mission of not letting me escape my responsibility of using this 'word thing' of mine to make a difference. They certainly won't take 'No' for an answer. 
+It would be polite to say I've felt compelled by a few wonderful and worldly people to share more of my work.  It would be more truthful to say that they're making a mission of ensuring I understand my responsibility of using this 'word thing' of mine to make a difference. They certainly won't take 'No' for an answer. 
 
 So, I'm writing marketing copy for non-for-profits, poems for people to give to their lovers, and books to share with the world. 
 
