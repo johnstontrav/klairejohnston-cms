@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: events-page
 title: About our values
 ---
 ### Shade-grown coffee - test
