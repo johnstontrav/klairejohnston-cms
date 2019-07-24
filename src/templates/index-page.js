@@ -40,11 +40,11 @@ export const IndexPageTemplate = ({
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{
               fontFamily: 'Palatino',
-              textAlign: 'center',
+              textAlign: 'center', backgroundColor: 'rgba(0,0,0,0.4)',
               color: 'white',
               lineHeight: '1',
               marginBottom: 0,
-              padding: '0.25em',
+              padding: '10px',
             }}
           >
             {title}
@@ -54,9 +54,11 @@ export const IndexPageTemplate = ({
             style={{
               fontFamily: 'Palatino',
               textAlign: 'center',
+              backgroundColor: 'rgba(0,0,0,0.2)',
               color: 'white',
+
               lineHeight: '1',
-              padding: '0.25em',
+              padding: '10px',
             }}
           >
             {subheading}
