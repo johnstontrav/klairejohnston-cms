@@ -38,7 +38,7 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
 
-        <link href="http://localhost:8001/fonts/Palatino.ttf" rel="stylesheet" />
+        <link href="/fonts/Palatino.ttf" rel="stylesheet" />
 
         <meta name="theme-color" content="#fff" />
 

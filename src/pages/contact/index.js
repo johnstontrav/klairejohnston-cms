@@ -36,6 +36,23 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <div
+          className="full-width-image-container margin-top-0"
+          style={{
+            backgroundImage: `url('/img/chemex.jpg')`,
+          }}
+        >
+          <h1
+            className="has-text-weight-bold is-size-1"
+            style={{
+              backgroundColor: 'rgba(0,0,0,0.4)',
+              color: 'white',
+              padding: '1rem',
+            }}
+          >
+            Contact Me
+          </h1>
+        </div>
         <section className="section">
           <div className="container">
             <div className="content">

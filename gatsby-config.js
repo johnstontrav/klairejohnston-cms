@@ -7,7 +7,7 @@ module.exports = {
     url: 'klairejohnston.com',
     image: '',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Klaire Johnston\'s work reveals the fine line between the everyday and the extraordinary, illuminating stories that lie just underneath the surface of us all.',
   },
   plugins: [
     'gatsby-plugin-sharp',
