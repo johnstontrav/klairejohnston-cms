@@ -2,19 +2,12 @@
 templateKey: index-page
 title: Klaire Johnston
 image: /img/photo-1511131341194-24e2eeeebb09.jpeg
-heading: Author
-subheading: 'LATEST RELEASE: Ideas too big for our skin'
+heading: '   '
+subheading: Author
 mainpitch:
-  title: .....
-  description: >-
-    Klaire writes because it's her gift. 
-
-
-    From the age of five her words have been woven through pubic performance,
-    literary publications, and places that words need to be heard.
-
-
-    Here you can follow her journey.
+  title: '  '
+  description: |
+    Klaire's works are the stories that lie just beneath the surface of us all.
 description: >-
   Klaire has MC'd weddings, addressed government forums, conducted workshops and
   delivered guest speaker presentations. She's a teacher, mentor, leader ... and
