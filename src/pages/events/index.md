@@ -1,5 +1,6 @@
 ---
 templateKey: events-page
+image: /img/creative_writing_workshop.png
 title: About our values
 ---
 #### Creative Kickstart Writing Workshop for aspiring writers
