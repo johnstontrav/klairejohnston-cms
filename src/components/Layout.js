@@ -37,6 +37,9 @@ const TemplateWrapper = ({ children }) => {
           href="/img/safari-pinned-tab.svg"
           color="#ff4400"
         />
+
+        <link href="http://localhost:8001/fonts/Palatino.ttf" rel="stylesheet" />
+
         <meta name="theme-color" content="#fff" />
 
         <meta property="og:type" content="business.business" />

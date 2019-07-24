@@ -11,69 +11,51 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
-          <img
-            src={logo}
-            alt="Kaldi"
-            style={{ width: '14em', height: '10em' }}
-          />
-        </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
+
+        <div className="content has-text-centered has-background-black has-text-white-ter" style={{
+          padding: '50px',
+        }}>
           <div className="container has-background-black has-text-white-ter">
             <div className="columns">
-              <div className="column is-4">
-                <section className="menu">
-                  <ul className="menu-list">
-                    <li>
-                      <Link to="/" className="navbar-item">
-                        Home
+              <div className="column is-12" style={{
+                textAlign: 'center'
+              }}>
+                <Link to="/" className="navbar-item" style={{
+                  textAlign: 'center',
+                  color: 'white',
+                  float: 'left',
+                  marginRight: '20px',
+                  lineHeight: '1',
+                  padding: '0.25em',
+                }}>
+                  Home
                       </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/about">
-                        About
+
+                <Link className="navbar-item" to="/blog" style={{
+                  textAlign: 'center',
+                  color: 'white',
+                  float: 'left',
+                  marginRight: '20px',
+                  lineHeight: '1',
+                  padding: '0.25em',
+                }}>
+                  Latest Stories
                       </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
+
+                <Link className="navbar-item" to="/contact" style={{
+                  textAlign: 'center',
+                  color: 'white',
+                  lineHeight: '1',
+                  float: 'left',
+                  marginRight: '20px',
+                  padding: '0.25em',
+                }}>
+                  Contact
                       </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
-                  </ul>
-                </section>
               </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4 social">
+
+
+              {/* <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}
@@ -103,7 +85,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
