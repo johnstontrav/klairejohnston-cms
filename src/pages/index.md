@@ -28,8 +28,8 @@ intro:
         It's hypothesised that the Eskimo have over fifty different words for
         snow. Loyalty, it seems, has just as many variations. But, is loyalty
         concrete, or might it just shift with circumstance? Van and Luna kick
-        off this trek into the blizzard.  Only one will still be there when the
-        sun breaks through ...
+        off this trek into this snowstorm of uncertainty.  Only one will still
+        be there when the sun breaks through ...
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
