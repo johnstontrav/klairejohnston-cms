@@ -12,12 +12,14 @@ intro:
   blurbs:
     - image: /img/ideas-skin.jpeg
       text: >
+
         Through the lens of the everyday, Klaire exposes universal truths.  Her
         debut verse novel 'Ideas too big for our skin' tells the story of one
         girl's search for the truest version of herself. Artful and confronting,
         this work feels both fresh and ultimately familiar. 
-    - image: /img/coffee-gear.png
+    - image: /img/paperfactory.jpg
       text: >
+
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
