@@ -11,12 +11,12 @@ description: '  '
 intro:
   blurbs:
     - image: /img/ideas-skin.jpeg
-      text: >
+      text: >-
 
-        Through the lens of the everyday, Klaire exposes universal truths.  Her
-        debut verse novel 'Ideas too big for our skin' tells the story of one
-        girl's search for the truest version of herself. Artful and confronting,
-        this work feels both fresh and ultimately familiar. 
+        Klaire's debut verse novel 'Ideas too big for our skin' tells the story
+        of one girl's search for the truest version of herself. Artful and
+        confronting, Klaire uses the familiarity of the 'everyday' to expose
+        some deeper, universal truths. 
     - image: /img/paperfactory.jpg
       text: >
 
