@@ -7,7 +7,7 @@ subheading: Author
 mainpitch:
   title: '  '
   description: |
-    Klaire's works are the stories that lie just beneath the surface of us all.
+    Klaire's writing is evocative and inspired ... and unnervingly relatable.
 description: >-
   Klaire has MC'd weddings, addressed government forums, conducted workshops and
   delivered guest speaker presentations. She's a teacher, mentor, leader ... and
