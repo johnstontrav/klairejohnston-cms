@@ -54,7 +54,7 @@ These were the few words to my mother she borrowed for her speech on the day.  T
 
 I the emotional exhaustion of the aftermath fo the funeral, I busied myself with decluttering some corners of my home. In what seemed like an affirmation, I unearthed the eulogy I delivered for my father-in-law and for the first time in so long recall how many had come to me and thanked me for the way those words touched them. 
 
-![](/img/screen-shot-2019-07-25-at-11.07.05-am.png)
+![](/img/screen-shot-2019-07-25-at-11.14.49-am.png)
 
 Going through the papers I also found the words I had written for a friend, to hold on her behalf, should her cancer journey not turn out as desired.  
 
