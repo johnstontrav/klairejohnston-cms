@@ -12,7 +12,7 @@ tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/billboard.png)
 
 'Blackout poetry' (Google it! > you'll thank me) is a favourite warm-up of mine because it forces each word to earn its spot on the page. It proves some of the best material can come from the distillation of ideas down into very few words. 
 
