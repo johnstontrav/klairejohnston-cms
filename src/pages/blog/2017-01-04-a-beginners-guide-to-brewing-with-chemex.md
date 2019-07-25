@@ -5,7 +5,7 @@ date: 2019-07-09T16:04:10.000Z
 description: >-
   I created a tiny read called 'Paper Factory' - it is one story told in just
   fourteen poems.  This hasn't yet found the acclaim of a story I wrote in just
-  EIGHT words. (Brevity can truly be a source of genius, huh?!)
+  EIGHT words. (Brevity can truly be a source of genius, right?!)
 featuredpost: false
 featuredimage: /img/billboard.png
 tags:
