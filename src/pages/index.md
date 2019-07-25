@@ -20,10 +20,9 @@ intro:
     - image: /img/paperfactory.jpg
       text: >
 
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        'Paper Factory' is one story told in fourteen poems. This tiny read and
+        the perfect intro to my writing style.  Devour over a cup of coffee or
+        with a cheeky glass of wine. 
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
