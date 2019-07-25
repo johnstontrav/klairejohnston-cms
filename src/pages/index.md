@@ -6,12 +6,8 @@ heading: '   '
 subheading: Author
 mainpitch:
   title: '  '
-  description: |
-    Klaire's writing is evocative and inspired ... and unnervingly relatable.
-description: >-
-  Klaire has MC'd weddings, addressed government forums, conducted workshops and
-  delivered guest speaker presentations. She's a teacher, mentor, leader ... and
-  an artist at heart.
+  description: Klaire's writing is evocative and inspired ... and unnervingly relatable.
+description: 'Through the lens of the everyday, she exposes universal truths.  '
 intro:
   blurbs:
     - image: /img/coffee.png
