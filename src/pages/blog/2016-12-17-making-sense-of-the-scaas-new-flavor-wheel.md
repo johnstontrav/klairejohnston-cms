@@ -38,6 +38,8 @@ Only last month, at the funeral of my grandmother, I wrote words from the heart 
 
 The evening before, I helped my uncle frame up his eulogy, which was peppered with great ideas, though - according to him - just didn't yet thread together with the message he was trying to impart. 
 
+![](/img/screen-shot-2019-07-25-at-11.12.08-am.png)
+
 It was important, I knew. I thought it was about tribute. About legacy. Though what I saw in his face at the service, and the relief once the words were delivered and resonated around the room, made me realise I was wrong. It was actually about healing. 
 
 Having crafted his words into the shape of the love he wanted to reflect, I gifted him something.
