@@ -23,13 +23,13 @@ intro:
         'Paper Factory' is one story told in fourteen poems. This tiny read and
         the perfect intro to my writing style.  Devour over a cup of coffee or
         with a cheeky glass of wine. 
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+    - image: /img/wordsforsnow.png
+      text: >-
+        It's long been long hypothesised the the Eskimo have over fifty
+        different words for snow. How we define a 'word' affects whether this
+        idea can be upheld. How many versions do we have of the idea of loyalty?
+        And how is it represented. In the same chracterises ... just as how we
+        define loyalty can 
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
