@@ -26,10 +26,10 @@ intro:
     - image: /img/wordsforsnow.png
       text: >-
         It's hypothesised that the Eskimo have over fifty different words for
-        snow. Loyalty reveals itself to have just as many variations. But, is
-        loyalty concrete, or might it just shift with circumstance? Van and Luna
-        show snowstorm of uncertainty.  Only one will still be there when the
-        sun breaks through ...
+        snow. Loyalty reveals itself to have just as many variations. In what is
+        a Van and Luna show us how loyalty is born head us into this exploration
+        of the fluidity of loyalty, .  Only one will still be there when the sun
+        breaks through ...
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
