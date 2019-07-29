@@ -30,7 +30,7 @@ intro:
         a Van and Luna show us how loyalty is born head us into this exploration
         of the fluidity of loyalty, .  Only one will still be there when the sun
         breaks through ...
-    - image: /img/screen-shot-2019-07-30-at-9.45.38-am.png
+    - image: /img/screen-shot-2019-07-30-at-9.50.56-am.png
       text: >-
         Have fun with this series of 'sparks' designed to ignite your
         creativity. 
