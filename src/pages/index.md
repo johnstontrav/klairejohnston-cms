@@ -30,20 +30,17 @@ intro:
         a Van and Luna show us how loyalty is born head us into this exploration
         of the fluidity of loyalty, .  Only one will still be there when the sun
         breaks through ...
-    - image: /img/screen-shot-2019-07-30-at-9.38.21-am.png
+    - image: /img/screen-shot-2019-07-30-at-9.45.38-am.png
       text: >-
         Have fun with this series of 'sparks' designed to ignite your
         creativity. 
 
 
         These specially-curated insights reveal writing as it really unfolds.
-        Forget step-by-step or 'how to' guides ... get a birds -eye view of the
+        Forget step-by-step or 'how to' guides ... get a birds-eye view of the
         creative process, from the tiny sparks, through all the 'messy and
         random' that makes imagination what it is, right up to the 'pens down',
         polished product.
-
-
-        Perfect for aspiring and accomplished writers alike.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
