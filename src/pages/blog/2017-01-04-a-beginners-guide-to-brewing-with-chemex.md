@@ -3,7 +3,7 @@ templateKey: blog-post
 title: '#8WordStory'
 date: 2019-07-09T16:04:10.000Z
 description: '  '
-featuredpost: false
+featuredpost: true
 featuredimage: /img/billboard.png
 tags:
   - brewing
