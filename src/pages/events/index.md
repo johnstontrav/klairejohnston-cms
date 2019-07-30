@@ -3,20 +3,19 @@ templateKey: events-page
 image: /img/creative_writing_workshop.png
 title: About our values
 ---
-#### Creative Kickstart Writing Workshop for aspiring writers
-**November 2019**
+#### Creative Kickstart Writing Consultations
 
-This 3-hour workshop includes:
-- Practical writing activities
-- Helpful tools and resources
-- Personalised feedback
-- Complimentary afternoon tea
-- A free email Q&A follow up
+**Your writing goals, realised.** 
+
+Contact Klaire for a tailored consultation that includes:
+
+* Practical writing activities
+* Personalised discussion and feedback on your work
+* Helpful tools and resources
+* A written plan to help you reach your writing goals
 
 For writers of poetry, novels, short stories and creative non-fiction.
 
-Cost: $45
+_**\*places strictly limited\***_
 
-**_\*numbers strictly limited\*_**
-
-_Full details announced September 2019. Express your interest and join the mailing list now._
+__[_Contact us for further details._](klaire@klairejohnston.com)__
