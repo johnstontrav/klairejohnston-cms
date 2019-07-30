@@ -1,6 +1,6 @@
 ---
 templateKey: events-page
-image: /img/creative_writing_workshop.png
+image: /img/screen-shot-2019-07-30-at-10.18.43-am.png
 title: About our values
 ---
 #### Creative Kickstart Writing Consultations
